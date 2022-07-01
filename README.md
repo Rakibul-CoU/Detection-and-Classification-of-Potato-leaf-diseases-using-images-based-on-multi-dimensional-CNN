@@ -1,0 +1,1 @@
+# Detection-and-Classification-of-Potato-leaf-diseases-using-images-based-on-multi-dimensional-CNN
